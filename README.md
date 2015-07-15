@@ -1,16 +1,16 @@
 ## Send Tweets From Anyone Anytime
-### AKA: Maybe don't believe everything you read on the internet
+## AKA: Maybe don't believe everything you read on the internet
 
-But trust us...this you can believe.
+### But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet.png" alt="Jimmy Fallon tweets about loving Flatiron School">
 
-Even Jimmy Fallon loves programming! He tweeted about Flatiron!!
 
-And One Direction...
+
+###And One Direction...
 
 <img src="https://s3.amazonaws.com/after-school-assets/one-direction-tweet.png" alt="One Direction tweets about Flatiron School">
 
-And so did Taylor Swift!! 
+###And so did Taylor Swift!! 
 
 <img src="https://s3.amazonaws.com/after-school-assets/taylor-swift-tweet.png" alt="Taylor Swift Tweets about loving programming">
 
