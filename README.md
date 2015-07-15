@@ -56,7 +56,9 @@ From there, you can right click on that code and select either `Edit as HTML` or
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-edit-html.png" alt="edit as html" width="500px" align="middle">
 
 
-#### Step 5: Once we select `Edit as HTML`, a text box appears where we can start to edit the text on the page and actually type. 
+#### Step 5: 
+
+Once we select `Edit as HTML`, a text box appears where we can start to edit the text on the page and actually type. 
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet-text.png" alt="tweet code" width="500px" align="middle">
 
