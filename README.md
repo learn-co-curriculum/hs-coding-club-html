@@ -1,7 +1,7 @@
 ## Send Tweets From Anyone Anytime
 ### AKA: Maybe don't believe everything you read on the internet
 
-** But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!***
+**But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!**
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet.png" alt="Jimmy Fallon tweets about loving Flatiron School">
 
 
@@ -30,9 +30,18 @@ Every single web site in existence is made up of at least two different programm
 
 Chrome has incredibly powerful Developer tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS.
 
-* **Step 2: Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
+* **Step 2:** Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet">
+
+* **Step 3:** Select `Inspect Element` from the dropdown options.
+
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-inspect-element.png" alt="Select inspect Element">
+
+This will bring up Chrome's Developer Tools, where we can start to play around with both the actual text on the page, as well as the HTML and CSS of the page.
+
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-developer-tools.png" alt="CHrome developer tools">
+
 
 
 
