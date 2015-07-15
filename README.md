@@ -32,15 +32,15 @@ Chrome has incredibly powerful Developer tools that allow you to see the nuts an
 
 * **Step 2:** Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
 
-<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet" width="500px">
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet" width="500px" align="middle">
 
 * **Step 3:** Select `Inspect Element` from the dropdown options.
 
-<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-inspect-element.png" alt="Select inspect Element">
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-inspect-element.png" alt="Select inspect Element" width="500px" align="middle">
 
 This will bring up Chrome's Developer Tools, where we can start to play around with both the actual text on the page, as well as the HTML and CSS of the page.
 
-<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-developer-tools.png" alt="CHrome developer tools">
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-developer-tools.png" alt="CHrome developer tools" width="500px" align="middle">
 
 
 
