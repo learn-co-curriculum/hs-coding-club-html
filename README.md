@@ -21,9 +21,6 @@ So you're really supposed to believe that everyone loves programming with Flatir
 
 Basically, we played with the code that makes up the styling and content of these Twitter pages. We didn't change it on Twitter's servers or change it for *everyone* but we did change it on our browsers, which makes it easy for us to take screenshots. #picsoritdidnthappen
 
-Every single web site in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Stylesheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff.
-
-
 ###Let's Get Started
 
 ####Step 1:
@@ -80,12 +77,13 @@ Remember, you will lose your text changes as soon as you refresh the page.
 See if you can play around with the images in a tweet to replace them of pictures of yourself. 
 
 
-### Tell Me More About HTML and CSS
+### Tell Me More About The Code
+
+Every single web site in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Stylesheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTMl
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
 In terminal, enter `mkdir my_website` 
-
 
 Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. 
 
