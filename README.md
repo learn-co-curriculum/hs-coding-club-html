@@ -26,11 +26,11 @@ Every single web site in existence is made up of at least two different programm
 
 ###Let's Get Started
 
-* **Step 1:** Download the Chrome browser if you don't already have it.
+#### **Step 1:** Download the Chrome browser if you don't already have it.
 
 Chrome has incredibly powerful Developer tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS.
 
-* **Step 2:** Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
+#### **Step 2:** Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet" width="500px" align="middle">
 
@@ -49,7 +49,9 @@ From there, you can right click on that code and select either `Edit as HTML` or
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-edit-html.png" alt="edit as html" width="500px" align="middle">
 
 
-* **Step 5:** Once we select `Edit as HTML`, a text box appears where we can start to edit the text on the page
+* **Step 5:** Once we select `Edit as HTML`, a text box appears where we can start to edit the text on the page and actually type. 
+
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet-text.png" alt="tweet code" width="500px" align="middle">
 
 
 
