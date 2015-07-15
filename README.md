@@ -32,7 +32,7 @@ Chrome has incredibly powerful Developer tools that allow you to see the nuts an
 
 * **Step 2:** Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
 
-<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet">
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet" width="500px">
 
 * **Step 3:** Select `Inspect Element` from the dropdown options.
 
