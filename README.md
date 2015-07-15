@@ -40,6 +40,31 @@ Chrome has incredibly powerful Developer tools that allow you to see the nuts an
 
 This will bring up Chrome's Developer Tools, where we can start to play around with both the actual text on the page, as well as the HTML and CSS of the page.
 
+* **Step 4:** Because we right clicked on top of the text of the tweet (the text that we want to change), the Developer Tools drop us right into the code for that text on the page. 
+
+The should should start with something like this `<p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text"`...
+
+From there, you can right click on that code and select either `Edit as HTML` or `Edit as Text`. 
+
+<img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-edit-html.png" alt="edit as html" width="500px" align="middle">
+
+
+* **Step 5:** Once we select `Edit as HTML`, a text box appears where we can start to edit the text on the page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-developer-tools.png" alt="CHrome developer tools" width="500px" align="middle">
 
 
