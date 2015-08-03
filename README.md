@@ -4,8 +4,6 @@
 **But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!**
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet.png" alt="Jimmy Fallon tweets about loving Flatiron School">
 
-
-
 **And One Direction...**
 
 <img src="https://s3.amazonaws.com/after-school-assets/one-direction-tweet.png" alt="One Direction tweets about Flatiron School">
@@ -27,7 +25,7 @@ Basically, we played with the code that makes up the styling and content of thes
 
 Download the Chrome browser if you don't already have it.
 
-Chrome has incredibly powerful Developer tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS.
+Chrome has incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS.
 
 #### Step 2: 
 
@@ -54,6 +52,12 @@ The should should start with something like this `<p class="TweetTextSize TweetT
 From there, you can right click on that code and select either `Edit as HTML` or `Edit as Text`. 
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-edit-html.png" alt="edit as html" width="500px" align="middle">
+
+If you can't find that selection of the text, you can select the search icon in the top left corner of the Developer Tools.
+
+<img src="https://s3.amazonaws.com/after-school-assets/dev-tools-search.png">
+
+Once you've selected the search icon, you can click on any text on the website (like the text of the tweet) and it will drop you to that portion of the code in the Developer Tools.
 
 
 #### Step 5: 
@@ -85,9 +89,9 @@ Every single web site in existence is made up of at least two different programm
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
-In terminal, enter `mkdir my_website` 
+In terminal, enter `mkdir my_website`. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
 
-Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. 
+Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you.
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
@@ -119,7 +123,6 @@ Simple Site Example:
 </body>
 ```
 
-
 Aside from the img tag, every html element has an opening and closing tag. It's important to keep your styling separate from your HTML. There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
@@ -127,20 +130,20 @@ The Mozilla Developer Network has a great resource with [details about every HTM
 You can see the fruits of your labor in the browser by entering in terminal: 
 
 ```
-ruby -rwebrick -e'WEBrick::HTTPServer.new(:Port => 3000, :DocumentRoot => Dir.pwd).start'
+python -m SimpleHTTPServer 3000
 ```
 
-Once the server is started, you'll want to select `Preview` from the tabs at the top of Nitrous, and then `Port 3000`
+Once you have the server running, select `preview` and then `port 3000`.
+
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
 
 ### Want To Learn More?
 
-1 [CodeAcademy HTML Tutorial](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b) - This tutorial is a great practice to walkthrough all sorts of HTML tags.
+1 [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - This page gives you specific details on the latest version of HTML, HTML5, which has a lot of cool new tags you can use, like `<audio>` for embedding audio clips and songs in your site.
 
-2 [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - This page gives you specific details on the latest version of HTML, HTML5, which has a lot of cool new tags you can use, like `<audio>` for embedding audio clips and songs in your site.
+2 [W3Schools Intro](http://www.w3schools.com/html/html_intro.asp) - W3 pops up a lot when Googling topics related to HTML. They keep it short and sweet, giving you just what you need to get your HTML tags right.
 
-3 [W3Schools Intro](http://www.w3schools.com/html/html_intro.asp) - W3 pops up a lot when Googling topics related to HTML. They keep it short and sweet, giving you just what you need to get your HTML tags right.
-
-4 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html) - Another good walkthrough on the basics of HTML.
+3 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html) - Another good walkthrough on the basics of HTML.
 
 
 
