@@ -23,9 +23,11 @@ Basically, we played with the code that makes up the styling and content of thes
 
 ####Step 1:
 
-Download the Chrome browser if you don't already have it.
+Download the Chrome browser or Firefox browser if you don't already have one.
 
-Chrome has incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS.
+These browsers both have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
+
+The following steps will work the exact same for either browser. The examples show Chrome, but Firefox operates the exact same!
 
 #### Step 2: 
 
@@ -53,7 +55,7 @@ From there, you can right click on that code and select either `Edit as HTML` or
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-edit-html.png" alt="edit as html" width="500px" align="middle">
 
-If you can't find that selection of the text, you can select the search icon in the top left corner of the Developer Tools.
+If you're using Chrome and you can't find that selection of the text, you can select the search icon in the top left corner of the Developer Tools.
 
 <img src="https://s3.amazonaws.com/after-school-assets/dev-tools-search.png">
 
