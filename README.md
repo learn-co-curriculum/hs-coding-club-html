@@ -23,11 +23,11 @@ Basically, we played with the code that makes up the styling and content of thes
 
 ####Step 1:
 
-Download the Chrome browser or Firefox browser if you don't already have one.
+Developer tools exist in the Firefox browser, or Internet Explorer 8. Make sure you download one of these browsers if you don't already have one.
 
 These browsers both have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
 
-The following steps will work the exact same for either browser. The examples show Chrome, but Firefox operates the exact same!
+The following steps will work the exact same for Chrome of Firefox. To access the Internet Explorer Developer Tools, open up a browser window and hit the `f12` key. The following examples will be using Chrome, but the Firefox and Internet Explorer tools operates exactly the same!
 
 #### Step 2: 
 
