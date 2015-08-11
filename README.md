@@ -91,9 +91,13 @@ Every single web site in existence is made up of at least two different programm
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
-In terminal, enter `mkdir my_website`. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
+Go ahead and open your IDE in Nitrous. You should see something like this:
 
-Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you.
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
+
+You'll want to click on the terminal, the long black box at the bottom of the screen. In terminal, type the words`mkdir my_website` and hit enter. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
+
+Next, we need to move inside of the directory we just made by entering in terminal `cd my_website`. Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you, in this case a file named `index.html`.
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
