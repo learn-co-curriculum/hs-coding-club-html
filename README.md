@@ -8,6 +8,14 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/one-direction-tweet.png" alt="One Direction tweets about Flatiron School">
 
+**And Drake...**
+
+<img src="https://s3.amazonaws.com/after-school-assets/drake-tweet.png" alt="Drake tweets about Flatiron School">
+
+**And Ed Sheeran...**
+
+<img src="https://s3.amazonaws.com/after-school-assets/ed-sheeran-tweet.png" alt="Ed Sheeran tweets about Flatiron and Programming">
+
 **And so did Taylor Swift!!**
 
 <img src="https://s3.amazonaws.com/after-school-assets/taylor-swift-tweet.png" alt="Taylor Swift Tweets about loving programming">
