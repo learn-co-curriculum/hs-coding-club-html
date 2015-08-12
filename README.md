@@ -31,11 +31,11 @@ Basically, we played with the code that makes up the styling and content of thes
 
 ####Step 1:
 
-Developer tools exist in the Firefox browser, or Internet Explorer 8. Make sure you download one of these browsers if you don't already have one.
+Developer tools exist in the Firefox browser, Chrome browser and Internet Explorer (8 and up). Make sure you download one of these browsers if you don't already have one.
 
-These browsers both have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
+All three of these browsers have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
 
-The following steps will work the exact same for Chrome of Firefox. To access the Internet Explorer Developer Tools, open up a browser window and hit the `f12` key. The following examples will be using Chrome, but the Firefox and Internet Explorer tools operates exactly the same!
+The following steps will work the exact same for Chrome of Firefox. To access the Internet Explorer Developer Tools, open up a browser window and hit the `f12` key. The following examples will be using Chrome, but the Firefox and Internet Explorer tools operate in the exact same way!
 
 #### Step 2: 
 
@@ -137,7 +137,7 @@ Simple Site Example:
 </body>
 ```
 
-Aside from the img tag, every html element has an opening and closing tag. It's important to keep your styling separate from your HTML. There are many many many more HTML tags than the few demoed above. 
+Aside from the `img` tag, every HTML element has an opening and closing tag. It's important to keep your styling separate from your HTML. There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
 
