@@ -23,7 +23,7 @@
 Programming is so cool that pretty much every celebrity everywhere has tweeted about it. 
 
 ### What In the World?
-So you're really supposed to believe that everyone loves programming with Flatiron? That can't even be possible, but those images sure prove they did!! So how did we do that? And better yet how can you prank all your friends in just the same way.
+So you're really supposed to believe that everyone loves programming with Flatiron? That can't even be possible, but those images sure prove they did!! So how did we do that? And better yet how can you prank all your friends in just the same way?
 
 Basically, we played with the code that makes up the styling and content of these Twitter pages. We didn't change it on Twitter's servers or change it for *everyone* but we did change it on our browsers, which makes it easy for us to take screenshots. #picsoritdidnthappen
 
@@ -31,7 +31,7 @@ Basically, we played with the code that makes up the styling and content of thes
 
 ####Step 1:
 
-Developer tools exist in the Firefox browser, Chrome browser and Internet Explorer (8 and up). Make sure you download one of these browsers if you don't already have one.
+Developer Tools exist in the Firefox browser, Chrome browser, and Internet Explorer (8 and up). Make sure you download one of these browsers if you don't already have one.
 
 All three of these browsers have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
 
@@ -95,7 +95,7 @@ See if you can play around with the images in a tweet to replace them of picture
 
 ### Tell Me More About The Code
 
-Every single web site in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Stylesheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTMl
+Every single website in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
@@ -113,7 +113,7 @@ HTML is made up of tags that surround pieces of content. Let's say we wanted to 
 <p> Ice cream (derived from earlier iced cream or cream ice[1]) is a frozen food, typically eaten as a snack or dessert, usually made from dairy products, such as milk and cream, and often combined with fruits or other ingredients and flavours. It is typically sweetened with sucrose, corn syrup, cane sugar, beet sugar, and/or other sweeteners. Typically, flavourings and colourings are added in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures (<35 °F / 2 °C). It becomes more malleable as its temperature increases. </p>
 ```
 
-In this example, we have an opening p tag `<p>` followed by the text of the paragraph, and finall the closing p tag `</p>`. Pretty much every HTML tag has an opening tag and a closing tag.  The content to be displayed on the page goes in the middle. The opening tag, content, and closing tag is called an html element. This way, the browser knows that piece of content is a paragraph.
+In this example, we have an opening p tag `<p>` followed by the text of the paragraph, and finally the closing p tag `</p>`. Pretty much every HTML tag has an opening tag and a closing tag.  The content to be displayed on the page goes in the middle. The opening tag, content, and closing tag is called an HTML element. This way, the browser knows that piece of content is a paragraph.
 
 
 Simple Site Example:
@@ -129,7 +129,7 @@ Simple Site Example:
   <!-- In the body, we put all the text we want to appear in our website -->
   <h1> Programming Is My Super Power </h1>
   <!-- The h1 tag marks the actual title of our page. It's a level 1 header. Every page should only have one h1 tag. -->
-  <h2> Programming let's me build whatever I want</h2>
+  <h2> Programming lets me build whatever I want</h2>
   <!-- h2 tags are smaller than h1, and are used for sub-headers. There are h3, h4, h5, and h6 tags too, which all get progressively smaller in text size -->
 
 <img src="https://s3.amazonaws.com/after-school-assets/coding-super-power.jpg">
