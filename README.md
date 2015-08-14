@@ -95,11 +95,13 @@ See if you can play around with the images in a tweet to replace them of picture
 
 ### Tell Me More About The Code
 
-Every single website in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
+Every single website in existence is made up of at least two different programming languages - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
-Go ahead and open your IDE in Nitrous. You should see something like this:
+Go ahead and open your IDE in Nitrous, by going to Nitrous.io.
+
+. You should see something like this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
 
@@ -137,7 +139,7 @@ Simple Site Example:
 </body>
 ```
 
-Aside from the `img` tag, every HTML element has an opening and closing tag. It's important to keep your styling separate from your HTML. There are many many many more HTML tags than the few demoed above. 
+Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
 
