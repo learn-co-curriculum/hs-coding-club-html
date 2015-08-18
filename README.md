@@ -23,7 +23,7 @@
 Programming is so cool that pretty much every celebrity everywhere has tweeted about it. 
 
 ### What In the World?
-So you're really supposed to believe that everyone loves programming with Flatiron? That can't even be possible, but those images sure prove they did!! So how did we do that? And better yet how can you prank all your friends in just the same way.
+So you're really supposed to believe that everyone loves programming with Flatiron? That can't even be possible, but those images sure prove they did!! So how did we do that? And better yet how can you prank all your friends in just the same way?
 
 Basically, we played with the code that makes up the styling and content of these Twitter pages. We didn't change it on Twitter's servers or change it for *everyone* but we did change it on our browsers, which makes it easy for us to take screenshots. #picsoritdidnthappen
 
@@ -31,11 +31,11 @@ Basically, we played with the code that makes up the styling and content of thes
 
 ####Step 1:
 
-Developer tools exist in the Firefox browser, Chrome browser and Internet Explorer (8 and up). Make sure you download one of these browsers if you don't already have one.
+Developer Tools exist in the Firefox browser, Chrome browser, and Internet Explorer (8 and up). Make sure you download one of these browsers if you don't already have one.
 
 All three of these browsers have incredibly powerful Developer Tools that allow you to see the nuts and bolts of every website. Basically, we can see and locally edit the HTML and CSS. 
 
-The following steps will work the exact same for Chrome of Firefox. To access the Internet Explorer Developer Tools, open up a browser window and hit the `f12` key. The following examples will be using Chrome, but the Firefox and Internet Explorer tools operate in the exact same way!
+The Developer Tools for Chrome and Firefox operate in the same way. To access the Internet Explorer Developer Tools, open up a browser window and hit the `f12` key. The following examples have been done using Chrome, but the steps for Firefox and Internet Explorer tools will be the same!
 
 #### Step 2: 
 
@@ -95,17 +95,23 @@ See if you can play around with the images in a tweet to replace them of picture
 
 ### Tell Me More About The Code
 
-Every single web site in existence is made up of at least two different programming langues - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Stylesheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTMl
+Every single website in existence is made up of at least two different programming languages - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
-Go ahead and open your IDE in Nitrous. You should see something like this:
+Go ahead and open your IDE in Nitrous, by going to [Nitrous.io](nitrous.io). You should see a page that looks like this: 
+
+<img src="https://s3.amazonaws.com/after-school-assets/open-ide.png" alt="Open Nitrous IDE">.
+
+You should click on the blue button labeled `IDE` which will take you to your workspace. 
+
+There, you should see something like this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
 
-You'll want to click on the terminal, the long black box at the bottom of the screen. In terminal, type the words`mkdir my_website` and hit enter. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
+You'll want to click on the terminal, the long black box at the bottom of the screen. In terminal, type the words `mkdir my_website` and hit enter. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
 
-Next, we need to move inside of the directory we just made by entering in terminal `cd my_website`. Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you, in this case a file named `index.html`.
+Next, we need to move inside of the directory we just made (so that we can create files and edit existing files) by entering in terminal `cd my_website`. Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you, in this case a file named `index.html`.
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
@@ -113,7 +119,7 @@ HTML is made up of tags that surround pieces of content. Let's say we wanted to 
 <p> Ice cream (derived from earlier iced cream or cream ice[1]) is a frozen food, typically eaten as a snack or dessert, usually made from dairy products, such as milk and cream, and often combined with fruits or other ingredients and flavours. It is typically sweetened with sucrose, corn syrup, cane sugar, beet sugar, and/or other sweeteners. Typically, flavourings and colourings are added in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures (<35 °F / 2 °C). It becomes more malleable as its temperature increases. </p>
 ```
 
-In this example, we have an opening p tag `<p>` followed by the text of the paragraph, and finall the closing p tag `</p>`. Pretty much every HTML tag has an opening tag and a closing tag.  The content to be displayed on the page goes in the middle. The opening tag, content, and closing tag is called an html element. This way, the browser knows that piece of content is a paragraph.
+In this example, we have an opening p tag `<p>` followed by the text of the paragraph, and finally the closing p tag `</p>`. Pretty much every HTML tag has an opening tag and a closing tag.  The content to be displayed on the page goes in the middle. The opening tag, content, and closing tag is called an HTML element. This way, the browser knows that piece of content is a paragraph.
 
 
 Simple Site Example:
@@ -129,7 +135,7 @@ Simple Site Example:
   <!-- In the body, we put all the text we want to appear in our website -->
   <h1> Programming Is My Super Power </h1>
   <!-- The h1 tag marks the actual title of our page. It's a level 1 header. Every page should only have one h1 tag. -->
-  <h2> Programming let's me build whatever I want</h2>
+  <h2> Programming lets me build whatever I want</h2>
   <!-- h2 tags are smaller than h1, and are used for sub-headers. There are h3, h4, h5, and h6 tags too, which all get progressively smaller in text size -->
 
 <img src="https://s3.amazonaws.com/after-school-assets/coding-super-power.jpg">
@@ -137,19 +143,30 @@ Simple Site Example:
 </body>
 ```
 
-Aside from the `img` tag, every HTML element has an opening and closing tag. It's important to keep your styling separate from your HTML. There are many many many more HTML tags than the few demoed above. 
+Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
 
-You can see the fruits of your labor in the browser by entering in terminal: 
+You'll want to have your HTML file open in the text editor so that you can add text to a page, as well as the HTML files open in the browser. When you're writing HTML for a website, you don't expect your user to actually open a text editor and look at the code that makes up the website. They want to actually view the website in the browser. 
+
+In fact, most people probably don't even want to think about the code that makes up the website. In order to view our HTML file, which is the text of your website, in the browser, you have to start a server. A server is basically a computer that continually runs the code you wrote so that people can view our site. Because our sites are still a work in progress, this server won't permanently host our site. It won't give us a URL to send to our friends, but it will let us view the fruits of our labor like it is a real site. To view your code in the browser, in terminal in Nitrous, enter:
 
 ```
 python -m SimpleHTTPServer 3000
 ```
 
-Once you have the server running, select `preview` and then `port 3000`.
+This command starts up a server automatically for you so you can view the website. Once you have the server running, select `preview` and then `port 3000`, just like in the image below.
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
+
+
+This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. To stop your server once you're done testing, you can just hit `control` and `c` at the same time. This will work on both Mac's and PC's. 
+
+If you would like to start your server back up again, you just simply enter:
+
+```
+python -m SimpleHTTPServer 3000
+```
 
 ### Want To Learn More?
 
