@@ -138,8 +138,8 @@ Simple Site Example:
   <h2> Programming lets me build whatever I want</h2>
   <!-- h2 tags are smaller than h1, and are used for sub-headers. There are h3, h4, h5, and h6 tags too, which all get progressively smaller in text size -->
 
-<img src="https://s3.amazonaws.com/after-school-assets/coding-super-power.jpg">
-  <!-- the img tag only has an opening tag, and no closing tag. This tag has an attribute src which stores the source of the image, in quotation marks, after the equals sign. -->
+<img src="https://s3.amazonaws.com/after-school-assets/coding-super-power.jpg" alt="Super Power">
+  <!-- the img tag only has an opening tag, and no closing tag. This tag has an attribute src which stores the source of the image, in quotation marks, after the equals sign. It also has an attribute `alt` which stands for alternate text. This is the text that will show up if your image breaks and doens't show up on your page -->
 </body>
 ```
 
