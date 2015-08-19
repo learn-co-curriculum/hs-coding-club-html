@@ -163,9 +163,7 @@ If you would like to start your server back up again, you just simply enter:
 python -m SimpleHTTPServer 3000
 ```
 
-
-
-Let's write some HTML. 
+###Let's write some HTML. 
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
