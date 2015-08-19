@@ -99,19 +99,73 @@ Every single website in existence is made up of at least two different programmi
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
+#### Step 1:
+
 Go ahead and open your IDE in Nitrous, by going to Nitrous.io. You should see a page that looks like this: 
 
 <img src="https://s3.amazonaws.com/after-school-assets/open-ide.png" alt="Open Nitrous IDE">.
 
+### Step 2:
 You should click on the blue button labeled `IDE` which will take you to your workspace. 
 
 There, you should see something like this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous_terminal.png" alt="nitrous">
 
-You'll want to click on the terminal, the long black box at the bottom of the screen. In terminal, type the words `mkdir my_website` and hit enter. `mkdir` is a command that will create a directory (directory and folder are the same thing) for you.
+### Step 3:
+You'll want to click on the terminal, the long black box at the bottom of the screen. In terminal, type the words `mkdir my_website` and hit enter. `mkdir` is a command that will make a directory (directory and folder are the same thing) for you.
 
-Next, we need to move inside of the directory we just made (so that we can create files and edit existing files) by entering in terminal `cd my_website`. Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you, in this case a file named `index.html`.
+<img src="https://s3.amazonaws.com/after-school-assets/mkdir.png">
+
+Sometimes Nitrous is slow to show a new directory. If the directory doesn't show up in the file navigator right away, click the arrow next to `nitrous` in the navigator twice. Once to close the file, and once to reopen. 
+
+### Step 4:
+
+Next, we need to move inside of the directory we just made (so that we can create files and edit existing files) by entering in terminal `cd my_website`. `cd` stands for change directory. 
+
+### Step 5: 
+
+Inside of that directory, we need to create our own HTML file. In terminal enter: `touch index.html`. `touch` is a command that will create and save a file for you, in this case a file named `index.html`.
+
+<img src="https://s3.amazonaws.com/after-school-assets/touch.png">
+
+### Step 6:
+
+You'll want to have your HTML file open in the text editor so that you can add text to a page, as well as the HTML files open in the browser. You can open it in the text editor by double clicking on the name of the file in the file navigation on the left side. 
+
+### Step 7:
+
+When you're writing HTML for a website, you don't expect your user to actually open a text editor and look at the code that makes up the website. They want to actually view the website in the browser. 
+
+In fact, most people probably don't even want to think about the code that makes up the website. In order to view our HTML file, which is the text of your website, in the browser, you have to start a server. A server is basically a computer that continually runs the code you wrote so that people can view our site. Because our sites are still a work in progress, this server won't permanently host our site. It won't give us a URL to send to our friends, but it will let us view the fruits of our labor like it is a real site. To view your code in the browser, in terminal in Nitrous, inside of the `my_website` directory, copy and paste the line below into terminal:
+
+```bash
+python -m SimpleHTTPServer 3000
+```
+
+ This command starts up a server automatically for you so you can view the website. If you see something like this, then you're good to go:
+
+<img src="https://s3.amazonaws.com/after-school-assets/started-server.png">
+
+ Once you have the server running, select `preview` and then `port 3000`, just like in the image below.
+
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
+
+
+This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. 
+
+
+To stop your server once you're done testing, you can just hit `control` and `c` at the same time. This will work on both Mac's and PC's. If you don't stop your server, you won't be able to use your terminal again to create any more directories or files, or work on any new labs. 
+
+If you would like to start your server back up again, you just simply enter:
+
+```
+python -m SimpleHTTPServer 3000
+```
+
+
+
+Let's write some HTML. 
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
@@ -146,28 +200,6 @@ Simple Site Example:
 Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
-
-You'll want to have your HTML file open in the text editor so that you can add text to a page, as well as the HTML files open in the browser. When you're writing HTML for a website, you don't expect your user to actually open a text editor and look at the code that makes up the website. They want to actually view the website in the browser. 
-
-In fact, most people probably don't even want to think about the code that makes up the website. In order to view our HTML file, which is the text of your website, in the browser, you have to start a server. A server is basically a computer that continually runs the code you wrote so that people can view our site. Because our sites are still a work in progress, this server won't permanently host our site. It won't give us a URL to send to our friends, but it will let us view the fruits of our labor like it is a real site. To view your code in the browser, in terminal in Nitrous, enter:
-
-```
-python -m SimpleHTTPServer 3000
-```
-
-This command starts up a server automatically for you so you can view the website. Once you have the server running, select `preview` and then `port 3000`, just like in the image below.
-
-<img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
-
-
-This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. To stop your server once you're done testing, you can just hit `control` and `c` at the same time. This will work on both Mac's and PC's. 
-
-If you would like to start your server back up again, you just simply enter:
-
-```
-python -m SimpleHTTPServer 3000
-```
-
 ### Want To Learn More?
 
 1 [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - This page gives you specific details on the latest version of HTML, HTML5, which has a lot of cool new tags you can use, like `<audio>` for embedding audio clips and songs in your site.
