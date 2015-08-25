@@ -92,6 +92,9 @@ Remember, you will lose your text changes as soon as you refresh the page.
 
 See if you can play around with the images in a tweet to replace them of pictures of yourself. 
 
+### Step 8: Share Share Share!
+Finished your work? So proud of you want to show it off to the world? Share a screenshot of your own twitter hack with **\#flatironcodeclub** **\#twitterhack**
+
 
 ### Tell Me More About The Code
 
@@ -175,6 +178,7 @@ In this example, we have an opening p tag `<p>` followed by the text of the para
 
 
 Simple Site Example:
+
 ```html
 <!doctype html> 
 <!-- The doctype tells the browser which version of HTML we're using -->
@@ -198,10 +202,6 @@ Simple Site Example:
 Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
-
-### Share Share Share!
-Finished your work? Share with your friends on social media
-\#flatironcodeclub
 
 ### Want To Learn More?
 
