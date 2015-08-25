@@ -198,6 +198,11 @@ Simple Site Example:
 Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
+
+### Share Share Share!
+Finished your work? Share with your friends on social media
+\#flatironcodeclub
+
 ### Want To Learn More?
 
 1 [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - This page gives you specific details on the latest version of HTML, HTML5, which has a lot of cool new tags you can use, like `<audio>` for embedding audio clips and songs in your site.
