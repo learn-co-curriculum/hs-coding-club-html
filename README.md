@@ -98,6 +98,8 @@ Finished your work? So proud of you want to show it off to the world? Share a sc
 
 ### Tell Me More About The Code
 
+Ready to learn how to actually write your own HTML and how the text of a website actually shows up? Keep reading to learn how!
+
 Every single website in existence is made up of at least two different programming languages - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
@@ -158,7 +160,7 @@ python -m SimpleHTTPServer 3000
 This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. 
 
 
-To stop your server once you're done testing, you can just hit `control` and `c`. This will work on both Mac's and PC's. If you don't stop your server, you won't be able to use your terminal again to create any more directories or files, or work on any new labs. 
+To stop your server once you're done testing, you can just hit `control` and `c`, at the  same time. This will work on both Mac's and PC's. If you don't stop your server, you won't be able to use your terminal again to create any more directories or files, or work on any new labs. 
 
 If you would like to start your server back up again, you just simply enter:
 
