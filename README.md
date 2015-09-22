@@ -201,7 +201,7 @@ Simple Site Example:
 </body>
 ```
 
-Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many many many more HTML tags than the few demoed above. 
+Aside from the `img` tag, every HTML element has an opening and closing tag.   There are many, many, many more HTML tags than the few demoed above. 
 
 The Mozilla Developer Network has a great resource with [details about every HTML tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Don't be shy to play around with your code!
 
