@@ -160,7 +160,7 @@ python -m SimpleHTTPServer 3000
 This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. 
 
 
-To stop your server once you're done testing, you can just hit `control` and `c`, at the  same time. This will work on both Mac's and PC's. If you don't stop your server, you won't be able to use your terminal again to create any more directories or files, or work on any new labs. 
+To stop your server once you're done testing, you can just hit `control` and then `c`, so that you're pressing both at the same time. This will work on both Mac's and PC's. If you don't stop your server, you won't be able to use your terminal again to create any more directories or files, or work on any new labs. 
 
 If you would like to start your server back up again, you just simply enter:
 
