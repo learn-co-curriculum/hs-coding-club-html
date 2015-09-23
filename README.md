@@ -168,7 +168,7 @@ If you would like to start your server back up again, you just simply enter:
 python -m SimpleHTTPServer 3000
 ```
 
-###Let's write some HTML. 
+###Let's Write Some HTML. 
 
 HTML is made up of tags that surround pieces of content. Let's say we wanted to put this paragraph from the Wikipedia page about ice cream on our page:
 
@@ -179,7 +179,7 @@ HTML is made up of tags that surround pieces of content. Let's say we wanted to 
 In this example, we have an opening p tag `<p>` followed by the text of the paragraph, and finally the closing p tag `</p>`. Pretty much every HTML tag has an opening tag and a closing tag.  The content to be displayed on the page goes in the middle. The opening tag, content, and closing tag is called an HTML element. This way, the browser knows that piece of content is a paragraph.
 
 
-Simple Site Example:
+Try copying and pasting this simple site example into `my_website/index.html`. Feel free to play around with the text and the tags!
 
 ```html
 <!doctype html> 
