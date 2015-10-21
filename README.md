@@ -106,7 +106,11 @@ What if we want to write our own website using HTML? The first thing that we nee
 
 #### Step 1:
 
-Go ahead and open your IDE in Nitrous, by going to Nitrous.io. You should see a page that looks like this: 
+Go ahead and open your IDE in Nitrous, by going to clicking on your profile picture in the top right corner of Learn.co and clicking "Open IDE".
+
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous-open-ide.png">
+
+You should see a page that looks like this: 
 
 <img src="https://s3.amazonaws.com/after-school-assets/open-ide.png" alt="Open Nitrous IDE">.
 
