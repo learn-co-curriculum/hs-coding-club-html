@@ -39,7 +39,7 @@ The following steps will work the exact same for Chrome of Firefox. To access th
 
 #### Step 2: 
 
-Go to the Twitter page of your favorite celebrity. We'll be using Jimmy Fallon as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
+Go to the Twitter page of your favorite celebrity. If your school blocks Twitter, feel free to go to your favorite news site and change some headlines. We'll be using Jimmy Fallon Twitter as an example. Once you're on that page, you'll want to hover your mouse of the text of their first tweet, and right click.
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-hover.png" alt="right click on text of tweet" width="500px" align="middle">
 
