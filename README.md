@@ -233,3 +233,5 @@ The Mozilla Developer Network has a great resource with [details about every HTM
 
 
 
+
+<a href='https://learn.co/lessons/hs-coding-club-html' data-visibility='hidden'>View this lesson on Learn.co</a>
