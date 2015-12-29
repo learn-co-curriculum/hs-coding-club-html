@@ -76,7 +76,7 @@ Once we select `Edit as HTML`, a text box appears where we can start to edit the
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet-text.png" alt="tweet code" width="500px" align="middle">
 
-We want to keep the HTML tags that surround the text, but everthing highlight in blue above, we can delete so we're just left with this:
+We want to keep the HTML tags that surround the text, but everthing highlighted in blue above, we can delete so we're just left with this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-editing.png" alt="deleting html" width="500px" align="middle">
 
@@ -100,7 +100,7 @@ Finished your work? So proud of you want to show it off to the world? Share a sc
 
 Ready to learn how to actually write your own HTML and how the text of a website actually shows up? Keep reading to learn how!
 
-Every single website in existence is made up of at least two different programming languages - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is useful for Google to know what search keywords should display our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
+Every single website in existence is made up of at least two different programming languages - HTML and CSS. HTML, which stands for hypertext markup language, is a language that defines the content of the page. It's a programming way of marking the specific title of your page, images, articles, lists, etc. This is important because it tells Google what search keywords are relevant on our website. CSS, which stands for Cascading Style Sheets, is the language used for styling a website. We use CSS to change font colors and styles, as well as layout and positioning of different items on the page. Without these two languages, websites wouldn't look the way they look or deliver content to us the way they do. Pretty powerful stuff. Today, we're just focusing on HTML
 
 What if we want to write our own website using HTML? The first thing that we need to do is create our own directory to store our code in Nitrous.
 
