@@ -234,4 +234,4 @@ The Mozilla Developer Network has a great resource with [details about every HTM
 
 
 
-<a href='https://learn.co/lessons/hs-coding-club-html' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-html' title='Send Tweets From Anyone Anytime'>Send Tweets From Anyone Anytime</a> on Learn.co and start learning to code for free.</p>
