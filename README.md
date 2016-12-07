@@ -1,5 +1,6 @@
-## Send Tweets From Anyone Anytime
-### AKA: Maybe don't believe everything you read on the internet
+# Send Tweets From Anyone Anytime
+
+## AKA: Maybe don't believe everything you read on the internet
 
 **But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!**
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet.png" alt="Jimmy Fallon tweets about loving Flatiron School">
@@ -216,22 +217,5 @@ The Mozilla Developer Network has a great resource with [details about every HTM
 2 [W3Schools Intro](http://www.w3schools.com/html/html_intro.asp) - W3 pops up a lot when Googling topics related to HTML. They keep it short and sweet, giving you just what you need to get your HTML tags right.
 
 3 [Mozilla Intro](http://docs.webplatform.org/wiki/guides/the_basics_of_html) - Another good walkthrough on the basics of HTML.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-html' title='Send Tweets From Anyone Anytime'>Send Tweets From Anyone Anytime</a> on Learn.co and start learning to code for free.</p>
