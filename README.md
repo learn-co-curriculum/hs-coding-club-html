@@ -1,6 +1,6 @@
 # Send Tweets From Anyone Anytime
 
-## AKA: Maybe don't believe everything you read on the internet
+AKA: Maybe don't believe everything you read on the internet
 
 **But trust us...this you can believe. Even Jimmy Fallon loves programming! He tweeted about Flatiron!!**
 <img src="https://s3.amazonaws.com/after-school-assets/jimmy-fallon-tweet.png" alt="Jimmy Fallon tweets about loving Flatiron School">
